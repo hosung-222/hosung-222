@@ -34,7 +34,7 @@ ___
 
 ### **⭐Favorit⭐**
 
-* python ***
+* python 
 
 <br>
 
