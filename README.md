@@ -9,7 +9,7 @@ ___
 * **Gachon univ** 가천대학교(2019~ ) 🏫
 * Major in **computer** science 💻
 * A multi-radio equipment **mechanic** in army (2020.8~2022.2) 🧑‍🔧
-* Gachon UMC(University MakeUs Challenge) 4th [Server]
+* Gachon UMC(University MakeUs Challenge) 4th [Server] (2023.03.27 ~ 2023.06.18)
 
 <br>
 
