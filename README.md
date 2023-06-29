@@ -46,7 +46,7 @@ ___
 <a href="https://h-castle.tistory.com/"><img src="https://img.shields.io/badge/Tstory-green?style=flat-square&logo=Tistory&logoColor=white&link=https://h-castle.tistory.com/"/></a>
 ##### Contact📩
 
-<a href="https://www.instagram.com/h__castle/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hssssss_/"/></a>
+<a href="https://www.instagram.com/hssssss_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hssssss_/"/></a>
 
 <br>
 
