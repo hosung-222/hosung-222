@@ -31,7 +31,7 @@ ___
 ![JavaScript](https://img.shields.io/badge/%20-Java%20Script-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
 
 <br>
-  ### **⭐Favorit⭐**
+### **⭐Favorit⭐**
 
 ![python](https://img.shields.io/badge/%20-Python-yellow?style=flat&logo=python&logoColor=ffffff)
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
