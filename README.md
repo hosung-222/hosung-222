@@ -31,12 +31,14 @@ ___
 ![JavaScript](https://img.shields.io/badge/%20-Java%20Script-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
 
 <br>
+
 ### **⭐Favorit⭐**
 
 ![python](https://img.shields.io/badge/%20-Python-yellow?style=flat&logo=python&logoColor=ffffff)
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 ![Mysql](https://img.shields.io/badge/%20-MySQL-importnat?style=flat&logo=MySQL&logoColor=ffffff)
 <br>
+
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <br>
