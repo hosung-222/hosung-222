@@ -1,13 +1,9 @@
 # **안녕하세요 백엔드 개발자를 꿈꾸는 이호성입니다**
 ### Thank you for visiting my git
 ___
-
-
-### **Who am I** 👦
-
 <br>
 
-##### profile
+## My Profile
 [<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://certain-cross-146.notion.site/6025840577d94589a6664c5b1fd11a7c?pvs=4)
 
 
@@ -19,7 +15,6 @@ ___
 <br>
 
 ### **Solved.ac**
-<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gik11kr)](https://solved.ac/gik11kr/)
 
@@ -36,24 +31,18 @@ ___
 ![JavaScript](https://img.shields.io/badge/%20-Java%20Script-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
 
 
-<br>
-
 ### **⭐Favorit⭐**
 
 ![python](https://img.shields.io/badge/%20-Python-yellow?style=flat&logo=python&logoColor=ffffff)
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 ![Mysql](https://img.shields.io/badge/%20-MySQL-importnat?style=flat&logo=MySQL&logoColor=ffffff)
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
 
-<br>
-
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosung-222&layout=compact)](https://github.com/hosung-222)
 
-### **Click here** 👇
+## **Click here** 👇
 
 ##### Teck blog
 
