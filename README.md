@@ -4,7 +4,9 @@ ___
 
 
 ### **Who am I** 👦
+
 <br>
+
 ##### profile
 [<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://certain-cross-146.notion.site/6025840577d94589a6664c5b1fd11a7c?pvs=4)
 
@@ -41,11 +43,14 @@ ___
 ![python](https://img.shields.io/badge/%20-Python-yellow?style=flat&logo=python&logoColor=ffffff)
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 ![Mysql](https://img.shields.io/badge/%20-MySQL-importnat?style=flat&logo=MySQL&logoColor=ffffff)
+
 <br>
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosung-222&layout=compact)](https://github.com/hosung-222)
 
 ### **Click here** 👇
