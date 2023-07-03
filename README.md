@@ -47,7 +47,7 @@ ___
 ### **Click here** 👇
 
 ##### profile
-<a href="https://certain-cross-146.notion.site/6025840577d94589a6664c5b1fd11a7c?pvs=4"><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=white&link=https://certain-cross-146.notion.site/6025840577d94589a6664c5b1fd11a7c?pvs=4"/></a>
+<a href="https://certain-cross-146.notion.site/6025840577d94589a6664c5b1fd11a7c?pvs=4"><img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=notion&logoColor=white&link=https://certain-cross-146.notion.site/6025840577d94589a6664c5b1fd11a7c?pvs=4"/></a>
 
 ##### Teck blog
 
