@@ -46,12 +46,16 @@ ___
 
 ### **Click here** 👇
 
+##### profile
+<a href="https://certain-cross-146.notion.site/6025840577d94589a6664c5b1fd11a7c?pvs=4"><img src="https://img.shields.io/badge/Notion-#000000?style=for-the-badge&logo=Notion&logoColor=white">
+
 ##### Teck blog
 
 <a href="https://h-castle.tistory.com/"><img src="https://img.shields.io/badge/Tstory-green?style=flat-square&logo=Tistory&logoColor=white&link=https://h-castle.tistory.com/"/></a>
 ##### Contact📩
 
 <a href="https://www.instagram.com/hssssss_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hssssss_/"/></a>
+
 
 <br>
 
