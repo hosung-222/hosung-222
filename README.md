@@ -48,6 +48,8 @@ ___
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahy-512&layout=compact)](https://github.com/hosung-222)
+
 ### **Click here** 👇
 
 
