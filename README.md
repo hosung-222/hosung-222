@@ -23,21 +23,22 @@ ___
 ### **My teck stack** 📕
 <br>
 
-![python](https://img.shields.io/badge/%20-Python-yellow?style=flat&logo=python&logoColor=ffffff)
+
 ![C](https://img.shields.io/badge/%20-C-blueviolet?style=flat&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/%20-C++-9cf?style=flat&logo=C%2B%2B&logoColor=ffffff)
-![Mysql](https://img.shields.io/badge/%20-MySQL-importnat?style=flat&logo=MySQL&logoColor=ffffff)
 ![Html5](https://img.shields.io/badge/%20-HTMLl5-F05032?style=flat&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/%20-CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/%20-Java%20Script-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+
 <br>
 
 ### **⭐Favorit⭐**
 
-* python 
-* Java
-
+![python](https://img.shields.io/badge/%20-Python-yellow?style=flat&logo=python&logoColor=ffffff)
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+![Mysql](https://img.shields.io/badge/%20-MySQL-importnat?style=flat&logo=MySQL&logoColor=ffffff)
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <br>
 
 ### **Click here** 👇
