@@ -4,6 +4,8 @@ ___
 <br>
 
 ## My Profile
+자기 소개서 👇 **Click here** 
+
 [<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://certain-cross-146.notion.site/6025840577d94589a6664c5b1fd11a7c?pvs=4)
 
 
