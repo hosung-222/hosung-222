@@ -1,4 +1,4 @@
-# **안녕하세요 백엔드 개발자를 꿈꾸는 이호성입니다**
+# **안녕하세요 백엔드 개발자 이호성입니다**
 ### Thank you for visiting my git
 ___
 <br>
@@ -12,8 +12,9 @@ ___
 * **Gachon univ** 가천대학교(2019~ ) 🏫
 * Major in **computer** science 💻
 * A multi-radio equipment **mechanic** in army (2020.8~2022.2) 🧑‍🔧
-* Gachon UMC(University MakeUs Challenge) 4th [Server] as Study leader (2023.03.27 ~ 2023.06.18) 
-
+* Gachon UMC(University MakeUs Challenge) 4th Server Challenger - [Study leader] (2023.03.27 ~ 2023.06.18)
+* Gachon UMC(University MakeUs Challenge) 5th Server Part Leader (2023.08.27 ~ )
+ 
 <br>
 
 ### **Solved.ac**
