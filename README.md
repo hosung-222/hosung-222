@@ -1,6 +1,4 @@
 # **안녕하세요 백엔드 개발자 이호성입니다**
-### Thank you for visiting my git
-___
 <br>
 
 ## My Profile
@@ -23,18 +21,7 @@ ___
 
 <br>
 
-## **My teck stack** 📕
-<br>
-
-
-![C](https://img.shields.io/badge/%20-C-blueviolet?style=flat&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/%20-C++-9cf?style=flat&logo=C%2B%2B&logoColor=ffffff)
-![Html5](https://img.shields.io/badge/%20-HTMLl5-F05032?style=flat&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/%20-CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/%20-Java%20Script-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
-
-
-### **⭐Favorit⭐**
+## **My ⭐Favorit Teck⭐ stack** 📕
 
 ![python](https://img.shields.io/badge/%20-Python-yellow?style=flat&logo=python&logoColor=ffffff)
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
