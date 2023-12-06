@@ -2,7 +2,6 @@
 <br>
 
 ## My Profile
-자기 소개서 👇 **Click here** 
 
 [<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://certain-cross-146.notion.site/6025840577d94589a6664c5b1fd11a7c?pvs=4)
 
@@ -21,7 +20,7 @@
 
 <br>
 
-## **My ⭐Favorit Teck⭐ stack** 📕
+## **My Favorit stack** 📕
 
 ![python](https://img.shields.io/badge/%20-Python-yellow?style=flat&logo=python&logoColor=ffffff)
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -31,20 +30,16 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosung-222&layout=compact)](https://github.com/hosung-222)
+<br>
+
+### **Git star**
+
+![hosung-222's github stats](https://github-readme-stats.vercel.app/api?username=hosung-222&show_icons=true)
 
 ## **Click here** 👇
 
 ##### Teck blog
-
 <a href="https://h-castle.tistory.com/"><img src="https://img.shields.io/badge/Tstory-green?style=flat-square&logo=Tistory&logoColor=white&link=https://h-castle.tistory.com/"/></a>
 ##### Contact📩
 
 <a href="https://www.instagram.com/hssssss_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hssssss_/"/></a>
-
-
-<br>
-
-### **Git star**
-<br>
-
-![hosung-222's github stats](https://github-readme-stats.vercel.app/api?username=hosung-222&show_icons=true)
