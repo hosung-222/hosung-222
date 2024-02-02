@@ -31,11 +31,3 @@
 ### **Git star**
 
 ![hosung-222's github stats](https://github-readme-stats.vercel.app/api?username=hosung-222&show_icons=true)
-
-## **Click here** 👇
-
-##### Teck blog
-<a href="https://h-castle.tistory.com/"><img src="https://img.shields.io/badge/Tstory-green?style=flat-square&logo=Tistory&logoColor=white&link=https://h-castle.tistory.com/"/></a>
-##### Contact📩
-
-<a href="https://www.instagram.com/hssssss_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hssssss_/"/></a>
