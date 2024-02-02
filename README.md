@@ -2,10 +2,6 @@
 <br>
 
 ## My Profile
-
-[<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://certain-cross-146.notion.site/6025840577d94589a6664c5b1fd11a7c?pvs=4)
-
-
 * **Gachon univ** 가천대학교(2019~ ) 🏫
 * Major in **computer** science 💻
 * A multi-radio equipment **mechanic** in army (2020.8~2022.2) 🧑‍🔧
