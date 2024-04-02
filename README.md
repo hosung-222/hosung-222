@@ -2,11 +2,14 @@
 <br>
 
 ## My Profile
-* **Gachon univ** 가천대학교(2019~ ) 🏫
-* Major in **computer** science 💻
+* Gachon UMC(University MakeUs Challenge) 5th Server Part Leader (2023.08 ~ 2024.02)
+* Gachon UMC(University MakeUs Challenge) 4th Server Challenger - [Study leader] (2023.03 ~ 2023.06)
 * A multi-radio equipment **mechanic** in army (2020.8~2022.2) 🧑‍🔧
-* Gachon UMC(University MakeUs Challenge) 4th Server Challenger - [Study leader] (2023.03.27 ~ 2023.06.18)
-* Gachon UMC(University MakeUs Challenge) 5th Server Part Leader (2023.08.27 ~ )
+* **Gachon univ** 가천대학교(2019~ ) 🏫
+  * Major in **computer science**  
+
+
+
  
 <br>
 
